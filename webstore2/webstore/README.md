@@ -1,9 +1,4 @@
-This project was to create a min webstore using angular. Using routers, we connect Homepage, sign-in, product item, item details, checkout, and thank you.
- Although angular does not run, I have tried my best to do with what i have.
-
-
-
-# ProjectName
+# Webstore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
 
