@@ -4,13 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
-  })
-
-  export class AppComponent {
+})
+export class AppComponent {
   title = 'webstore';
-  navbarOpen = false;
-
-  toggleNavbar() {
-    this.navbarOpen = !this.navbarOpen;
-    }
-  }
+}
