@@ -22,6 +22,7 @@
     "@angular/platform-browser": "~8.2.3",
     "@angular/platform-browser-dynamic": "~8.2.3",
     "@angular/router": "~8.2.3",
+    "@ng-bootstrap/ng-bootstrap": "^5.1.1",
     "express": "^4.17.1",
     "path": "^0.12.7",
     "rxjs": "~6.4.0",
@@ -51,5 +52,8 @@
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
   },
-   "engines": {                                                                                                "node": "~11.15.0",                                                                                        "npm": "~6.11.3"                                                                                         }
+  "engines": {
+    "node": "~11.15.0",
+    "npm": "~6.11.3"
+  }
 }
