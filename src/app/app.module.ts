@@ -24,5 +24,5 @@ import { CartComponent } from './cart/cart.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { 
-	title = 'webstore'
+	title = 'Bananas for less'
 }

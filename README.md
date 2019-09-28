@@ -1,3 +1,6 @@
+Sprint 2 is under way and is nearly complete. The design doc has been upadated and is up to date.
+
+
 # Webstore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
